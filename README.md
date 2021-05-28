@@ -1,2 +1,3 @@
-# Welcom to EdgerOS Community
+# Welcome
 
+A warm welcome from EdgerOS community!

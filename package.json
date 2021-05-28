@@ -1,6 +1,6 @@
 {
   "name": "@edgeros/welcome",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A warm welcome from EdgerOS community!",
   "main": "index.js",
   "scripts": {
